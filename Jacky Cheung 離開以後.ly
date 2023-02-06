@@ -6,31 +6,69 @@
 \score {
 <<
   \chords { 
-      %
+      % intro
+      d2 a |
+      d/g d |
+      e:m g |
+      g d | 
+      % ver 1
       d1 fis:m |
       b:m | e2:m a | 
       %fis:m
       fis:m
-      fis:m b:m a4 g4 |
+      fis:m | b4:m~ 8. a16~ 8 g4. |
       fis2:m b:m e:m a |
-
+      % ver 2
       d1 fis:m |
       b:m | e2:m a | 
+      fis:m
+      fis:m | b4:m~ 8. a16~ 8 g4. |
+      fis2:m b:m e:m a |
 
   }
-  \relative c' { \time 4/4 \key d \major \tempo 4 = 100
+  \relative c' { \time 4/4 \key d \major \tempo 4 = 80
+    % intro
+    d'4~ ^"Intro" 8 e16 d a4~ 8 \times 2/3 {a16 b cis} |
+    cis8 b16 b~ 8 a16 a e4~ 16 d8 e32 fis |
+    g8 fis16 d~ 8 b16 d b4  e8 b16 d |
+    b'8. a16~ 8 g fis2 |
+    \break
     % start
-    r8 fis16 fis fis4 g8 fis e d |
+    r8 ^"Ver 1" fis16 fis fis4 g8 fis e d |
     b' b b fis16 a~ 2 |
     r8 fis16 fis fis8 d'16 d16~ 16 fis,8. g8 fis |
     fis e e d16 fis fis e8.~ 8 d16 e |
     fis4. 16 fis g8 fis e fis |
     b4 fis8 e16 e~ 8 d4. |
     r8 fis8 a b d b a b16 fis~ |
-    8 e4. cis4 a8 e' |   
-    r8 fis16 fis fis4 g8 fis e d |
+    8 e4. <cis e a>4 a8 e' |
+    \break   
+    r8 ^"Ver 2" fis16 fis fis4 g8 fis e d |
+    b' b b cis16 a~ 2 |
+    r8 fis16 fis fis8 d'16 d16~ 16 fis,8. g8 a |
+    fis e e d16 fis fis e8.~ 8 d16 e |
+    fis4. 16 fis g8 fis f fis |
+
+    b4 cis4 d4~ 8 e d cis b
+    b cis a fis b
+    a b d d b a
+    d e fis e
+    \break
+    a fis e d b
+    d d d e d fis
+
+    
+    d4. |
+    r8 fis8 a b d b a b16 fis~ |
+    8 e4. cis4 a8 e' |
+
   }
   \addlyrics{
+    % intro
+    " "1 " "1 " "1 " "1 " "1 " "1 " "1 |
+    " "1 " "1 " "1 " "1 " "1 " "1 " "1 " "1 " "1 |
+    " "1 " "1 " "1 " "1 " "1 " "1 " "1 " "1 " "1 |
+    " "1 " "1 " "1 " "1            
     %[chord] 
     近 日 像 每 样 话 题 (总) 不 适 合 你 
     %Bm                 
@@ -58,21 +96,21 @@
     %                      D              #Fm      
     離 開 我 以 後 我 會 習 慣 自 卑 
     %                      Bm            #Fm 
-    明天再偶遇我也不敢偷望你 
+    明 天 再 偶 遇 我 也 不 敢 偷 望 你 
     %                      G                         #Fm      Bm 
-    離開我以後季節冷暖天氣 我也置諸不理 
+    離 開 我 以 後 季 節 冷 暖 天 氣  我 也 置 諸 不 理 
     %                Em       A 
-    願名字也再不記起 
+    願 名 字 也 再 不 記 起 
     %                    D            #Fm 
-    離開我以後我會長留這地 
+    離 開 我 以 後 我 會 長 留 這 地  
     %                    Bm            A7sus4 
-    晨早到午夜撲進漆黑想念你 
+    晨 早 到 午 夜 撲 進 漆 黑 想 念 你 
     %                    G             #Fm. Bm 
-    離開我以後醉了會看到你 
+    離 開 我 以 後 醉 了 會 看 到 你 
     %Em        Asus4 
-    夢中方可永久地 
+    夢 中 方 可 永 久 地 
     %        D          Bm    #Fm  
-    接近你.    oh-----     
+    接 近 你.    oh-----     
   }
 >>
   \layout {}
