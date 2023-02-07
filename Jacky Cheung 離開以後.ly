@@ -20,13 +20,16 @@
       fis2:m b:m e:m a |
       % ver 2
       d1 fis:m |
-      b:m | e2:m a | 
+      b2:m b:m/a | e2/gis a/g | 
+      s1 s1 s1 s1 s1 s1
+      s1 s1 s1 s1 s1 s1
+
       fis:m
-      fis:m | b4:m~ 8. a16~ 8 g4. |
+      fis | b4:m~ 8. a16 a8/gis cis4.:m5 |
       fis2:m b:m e:m a |
 
   }
-  \relative c' { \time 4/4 \key d \major \tempo 4 = 80
+  \relative c' { \time 4/4 \key d \major \tempo 4 = 60
     % intro
     d'4~ ^"Intro" 8 e16 d a4~ 8 \times 2/3 {a16 b cis} |
     cis8 b16 b~ 8 a16 a e4~ 16 d8 e32 fis |
@@ -48,15 +51,40 @@
     r8 fis16 fis fis8 d'16 d16~ 16 fis,8. g8 a |
     fis e e d16 fis fis e8.~ 8 d16 e |
     fis4. 16 fis g8 fis f fis |
+    
+    b4 ^"check" cis4 d4 e16 d cis b |
 
-    b4 cis4 d4~ 8 e d cis b
-    b cis a fis b
-    a b d d b a
-    d e fis e
+    b8 cis8 a8 fis8 b4 
+    
+    fis16 ^"asc" a b cis | 
+    d d b a 
+    \times 2/3 {d8 e fis}
+    %d16. e8 fis16. 
+    e4 
     \break
-    a fis e d b
-    d d d e d fis
+    a,16 ^"new ver" fis' e d b 
+    d16 d8 d16 e8 d16 fis4 
+    \break
+    a,16 ^"new ver" fis' e d b 
+    d16 d8 %fis16 
+    e16 d16 %a16 
+    b fis a4 
+    a16 ^"new ver" fis' e d | b 
+    d16 d d d e d8 
+    d16 d e fis e d b a
+    b8 d d16 e8 d16 e4 
+    a,16 ^"new ver" fis' e d | b 
+    d16 d8 d16 e8. a16 fis8. 
+    a,16 ^"new ver" fis' e d | b     
+    d16 d8 e16 d b8 fis16 a8.
+    a16 ^"new ver" fis' e d | b     
+    
+    
+    r16 r16 r16 r16 r16 r16 r16 r16 
 
+
+
+    s1 s1 s1
     
     d4. |
     r8 fis8 a b d b a b16 fis~ |
@@ -86,7 +114,7 @@
 落 寞 地 躺 在 睡 床 试 试 抱 紧 你 
 但 是 目 光 躲 避 
 令 我 可 感 到 你 在 喘 气 
-没 说 出 
+没 说 出 " "
 亦 领 会 谁 在 撩 动 你 
 抛 开 苦 痛 去 解 脱 自 己 
 让 你 那 些 冷 却 热 情 另 有 生 机 
