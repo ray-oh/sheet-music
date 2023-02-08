@@ -13,6 +13,7 @@ Editor
 - [Hacklily - online sheet music editor for liypond](https://www.hacklily.org/)
 - [Lilypond Notation Reference](https://www.weblily.net/weblily-app/Clickable-Notation-Reference.html)
 - [MuseScore - quick usage guide](https://www.youtube.com/watch?v=POaZ_WKZ_Lc)
+  - [MuseScore can convert PDF using Audiveris OMR optical music reconition solution](https://musescore.com/import)
 - [Evaluation of the Best Music Writing Software on the Market](https://www.careersinmusic.com/best-music-writing-software/)
 
 MIDI
