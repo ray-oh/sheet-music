@@ -8,6 +8,7 @@ YouTube music
 - [獅子山下 - 羅文 (Below the Lion's Rock - Roman Tam)](https://www.youtube.com/watch?v=rzltyMt36UE)
 - [大会堂演奏厅 疯狂钢琴即兴 月半小夜曲](https://www.youtube.com/watch?v=mkQIFljtrK0)
 - [離開以後](https://www.youtube.com/watch?v=t2v_AoXw9EY)  [Piano Cover](https://www.youtube.com/watch?v=AUSa1GNSxvg)
+- [張學友 Jacky Cheung 鋼琴戀曲](https://www.youtube.com/watch?v=Me9XP4dkZbk)
 
 Editor
 - [Hacklily - online sheet music editor for liypond](https://www.hacklily.org/)
@@ -18,3 +19,6 @@ Editor
 
 MIDI
 - [Free midi file repo](https://freemidi.org/)
+- [Metronome](https://www.musicca.com/metronome)
+- [Piano Chords](https://muted.io/piano-chords/)
+- [Guitar Chords](https://zh-hk.guitarians.com/chord/3438/%E5%BC%B5%E5%AD%B8%E5%8F%8B-%E9%9B%A2%E9%96%8B%E4%BB%A5%E5%BE%8C)
