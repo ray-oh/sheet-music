@@ -15,6 +15,7 @@ Editor
 - [Lilypond Notation Reference](https://www.weblily.net/weblily-app/Clickable-Notation-Reference.html)
 - [MuseScore - quick usage guide](https://www.youtube.com/watch?v=POaZ_WKZ_Lc)
   - [MuseScore can convert PDF using Audiveris OMR optical music reconition solution](https://musescore.com/import)
+  - [Shift notes to left](https://musescore.org/en/node/336856)
 - [Evaluation of the Best Music Writing Software on the Market](https://www.careersinmusic.com/best-music-writing-software/)
 
 MIDI
