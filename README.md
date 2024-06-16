@@ -38,6 +38,7 @@ But there is a problem: you may need to transfer scores from one application to 
 - **Musescore** - [quick usage guide](https://www.youtube.com/watch?v=POaZ_WKZ_Lc)
   - [MuseScore can convert PDF using Audiveris OMR optical music reconition solution](https://musescore.com/import)
   - [Shift notes to left](https://musescore.org/en/node/336856)
+- [Musescore sheet music site for download of sheet music](https://musescore.com/sheetmusic)  
 
 ## Lilypond editors
 - **Hacklily** - [online sheet music editor for lilypond](https://www.hacklily.org/)
