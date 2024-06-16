@@ -23,3 +23,17 @@ MIDI
 - [Metronome](https://www.musicca.com/metronome)
 - [Piano Chords](https://muted.io/piano-chords/)
 - [Guitar Chords](https://zh-hk.guitarians.com/chord/3438/%E5%BC%B5%E5%AD%B8%E5%8F%8B-%E9%9B%A2%E9%96%8B%E4%BB%A5%E5%BE%8C)
+
+Import / Export music files between lilypond and Musescore
+https://francopasut.netlify.app/post/lilypond_musescore_musicxml/
+
+
+Install Audiveris OMR to convert from lilypond to musescore
+https://github.com/Audiveris/audiveris?tab=readme-ov-file
+Requires Java 17 installation.  Check with "java -version" from cmd prompt
+If not present, install openJDK - microsoft build.
+https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-21
+
+
+
+
