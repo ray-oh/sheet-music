@@ -33,6 +33,8 @@ However, this is not an article comparing the two systems: ideally, it is best t
 But there is a problem: you may need to transfer scores from one application to the other to avoid having to rewrite all the work from scratch.
 
 - [Evaluation of the Best Music Writing Software on the Market](https://www.careersinmusic.com/best-music-writing-software/)
+- Other tool for importing music from image/PDF into music file - [playscore](https://www.playscore.co/)  
+- [PDF to midi converters](https://www.sysgeeker.com/blog/the-best-7-pdf-to-midi-converters-transform-your-sheet-music-into-a-digital-symphony.html)  
 
 ## Musescore
 - **Musescore** - [download](https://musescore.org/en)
