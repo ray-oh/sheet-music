@@ -72,4 +72,8 @@ Editor
   - [Shift notes to left](https://musescore.org/en/node/336856)
 - [Evaluation of the Best Music Writing Software on the Market](https://www.careersinmusic.com/best-music-writing-software/)
 
+# Find Chords for Songs
+- **Chordify** - [Get chords from youtube song](https://chordify.net/)
+![image](https://github.com/ray-oh/sheet-music/assets/115925194/ea9eb4ec-8b60-48bb-b8aa-4fcc7135f811)
+
 
