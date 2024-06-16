@@ -35,7 +35,8 @@ But there is a problem: you may need to transfer scores from one application to 
 - [Evaluation of the Best Music Writing Software on the Market](https://www.careersinmusic.com/best-music-writing-software/)
 
 ## Musescore
-- **Musescore** - [quick usage guide](https://www.youtube.com/watch?v=POaZ_WKZ_Lc)
+- **Musescore** - [download](https://musescore.org/en)
+  - [quick usage guide](https://www.youtube.com/watch?v=POaZ_WKZ_Lc)
   - [MuseScore can convert PDF using Audiveris OMR optical music reconition solution](https://musescore.com/import)
   - [Shift notes to left](https://musescore.org/en/node/336856)
 - [Musescore sheet music site for download of sheet music](https://musescore.com/sheetmusic)  
